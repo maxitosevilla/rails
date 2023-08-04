@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Update H1 in Explorer API docs (#7813)
