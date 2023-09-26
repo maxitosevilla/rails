@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
