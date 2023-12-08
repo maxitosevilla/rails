@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
