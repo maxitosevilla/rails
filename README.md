@@ -1,1 +1,1 @@
-Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
+Fix RTDETR generate anchor grid out of boundary (#7247)
