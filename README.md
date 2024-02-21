@@ -1,1 +1,1 @@
-fix val each epoch
+Fix docker.yaml double-quote version bug (#7452)
