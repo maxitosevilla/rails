@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Fix PIL show() and save() (#8202)
