@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
