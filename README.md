@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
