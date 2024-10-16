@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
